@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Portfolio Gallan Stefan J.K.</title>
+    <title>Portfolio Gallan</title>
 
     <!-- Bootstrap -->
     <link rel="icon" href="img/logo2.jpg" sizes="32x32">
